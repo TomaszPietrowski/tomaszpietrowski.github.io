@@ -1,2 +1,11 @@
 theme: jekyll-theme-minimal
 title: Tomasz Pietrowski
+name: Tomasz Pietrowski
+bio: iOS Developer
+
+external-image: true
+picture: https://github.com/TomaszPietrowski.png
+url: http://tomaszpietrowski.github.io
+
+width: normal
+animation: true
